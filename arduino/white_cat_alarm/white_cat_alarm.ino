@@ -32,8 +32,8 @@
  *
  * See README.md for full wiring diagram and setup instructions.
  *
- * Author: [Your Name]
- * License: MIT
+ * Author: Sealion100
+ * License: CC BY-NC 4.0
  */
 
 #include <TM1637Display.h>
