@@ -24,8 +24,8 @@
  *
  * CWA Open Data portal: https://opendata.cwa.gov.tw
  *
- * Author: [Your Name]
- * License: MIT
+ * Author: Sealion100
+ * License: CC BY-NC 4.0
  */
 
 // ==========================================
