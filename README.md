@@ -109,8 +109,8 @@ Place these MP3 files on the SD card inside the DFPlayer module:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/white-cat-alarm.git
-cd white-cat-alarm
+git clone https://github.com/SealLee09/Interactive-White-Cat-Alarm-using-Arduino-R4-WIFI.git
+cd Interactive-White-Cat-Alarm-using-Arduino-R4-WIFI
 ```
 
 ### 2. Deploy the weather endpoint
