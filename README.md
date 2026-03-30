@@ -70,7 +70,7 @@ white-cat-alarm/
 
 > **Note:** TFT and SD card share the SPI bus. CS pins are managed in firmware to avoid conflicts. The DFPlayer uses the hardware Serial1 port.
 
-> **Note:** Pin 1 needs a 1kΩ resistor, all pins on TFT need a 1kΩ resistor connected to the main Arduino board. 
+> **Note:** Pin 1 needs a 1kΩ resistor, all pins on TFT need a 1kΩ resistor connected to the main Arduino board, but SD module doesn't need. 
 
 ---
 
