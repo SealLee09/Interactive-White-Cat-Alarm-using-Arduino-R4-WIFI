@@ -52,7 +52,7 @@ white-cat-alarm/
 
 ## 📌 Wiring
 
-![Wiring Diagram](docs/images/wiring_diagram.svg)
+![Wiring Diagram](docs/images/wiring(hand_drawing).jpg)
 
 | Arduino Pin | Connected To |
 |---|---|
