@@ -1,4 +1,4 @@
-# 🐾 White Cat Alarm Clock
+# 🐾 White Cat Alarm Clock 
 
 A Wi-Fi connected smart alarm clock built on the **Arduino UNO R4 WiFi**, featuring an animated TFT cat display, weather-aware reactions, touch controls, and a mobile-friendly web interface for setting the alarm.
 
